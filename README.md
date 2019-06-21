@@ -6,6 +6,8 @@ Click here to purchase one from the Adafruit shop</a>
 PCB files for the Adafruit BME280 Breakout. Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/2652
 
+## Description
+
 Bosch has stepped up their game with their new BME280 sensor, an environmental sensor with temperature, barometric pressure and humidity! This sensor is great for all sorts of weather/environmental sensing and can even be used in both I2C and SPI!
 
 This precision sensor from Bosch is the best low-cost sensing solution for measuring humidity with ±3% accuracy, barometric pressure with ±1 hPa absolute accuraccy, and temperature with ±1.0°C accuracy. Because pressure changes with altitude, and the pressure measurements are so good, you can also use it as an altimeter with  ±1 meter or better accuracy!
