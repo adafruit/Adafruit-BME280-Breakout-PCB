@@ -6,7 +6,7 @@ Click here to purchase one from the Adafruit shop</a>
 PCB files for the Adafruit BME280 Breakout. Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/2652
 
-## Description
+### Description
 
 Bosch has stepped up their game with their new BME280 sensor, an environmental sensor with temperature, barometric pressure and humidity! This sensor is great for all sorts of weather/environmental sensing and can even be used in both I2C and SPI!
 
